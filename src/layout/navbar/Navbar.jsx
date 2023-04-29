@@ -28,7 +28,7 @@ export const Navbar = () => {
 	};
 
 	//! VIejo
-	// Styles
+	// Styles;
 	const navLinkStyles =
 		"flex text-white md:text-black items-center hover:pl-6 hover:border-slate-400 md:hover:px-3 md:hover:border-none pt-5 pl-4 md:pt-3 md:p-3 md:hover:bg-[#ebe7e7] duration-200 md:rounded-xl";
 
@@ -40,7 +40,7 @@ export const Navbar = () => {
 	// 	"flex items-center hover:pl-6 hover:border-slate-400 pt-5 pl-4  duration-200 ";
 
 	// const navLinkStylesActive = "border-b-4";
-	
+
 	return (
 		<nav
 			className={`flex justify-between items-center px-8 sm:px-16 border-b-[1px] border-black relative h-[15vh]`}
